@@ -1,0 +1,6 @@
+tweepy==4.10.1
+matplotlib==3.6.1
+wordcloud==1.8.2.2
+numpy==1.23.4
+tk
+Pillow==9.2.0
